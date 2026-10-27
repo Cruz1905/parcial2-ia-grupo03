@@ -1,0 +1,85 @@
+hotel_id,sector,precio_noche_miles,calificacion,ocupacion_alta
+H001,Centro,166,5.0,1
+H002,Zaragoza,136,2.9,0
+H003,Guadalupe,122,4.1,1
+H004,Guadalupe,352,4.7,0
+H005,La Isleta,352,3.1,0
+H006,Zaragoza,95,4.8,1
+H007,Guadalupe,158,4.3,1
+H008,El Prado,285,4.4,0
+H009,Centro,298,3.1,0
+H010,Centro,209,4.3,1
+H011,El Prado,224,4.5,1
+H012,Centro,312,4.7,0
+H013,Centro,209,3.9,0
+H014,Centro,386,2.7,0
+H015,El Prado,165,4.1,1
+H016,Guadalupe,98,3.5,0
+H017,Centro,146,4.7,1
+H018,La Isleta,79,3.4,1
+H019,La Isleta,374,4.0,0
+H020,Guadalupe,281,3.9,0
+H021,El Prado,127,2.8,0
+H022,Centro,72,4.3,1
+H023,Zaragoza,348,3.6,0
+H024,El Prado,186,3.8,1
+H025,La Isleta,131,3.6,0
+H026,El Prado,198,2.6,0
+H027,Zaragoza,115,2.8,0
+H028,Centro,84,3.8,1
+H029,Guadalupe,67,3.5,1
+H030,Centro,63,3.5,1
+H031,Guadalupe,270,3.0,0
+H032,LA ISLETA,172,3.9,0
+H033,Guadalupe,147,3.6,1
+H045,Guadalupe,114,4.5,1
+H034,Zaragoza,216,3.8,0
+H035,La Isleta,274,4.0,0
+H036,Centro,142,4.9,1
+H037,Centro,104,4.3,1
+H038,La Isleta,288,4.1,0
+H039,guadalupe,155,4.2,1
+H040,El Prado,348,3.2,0
+H041,El Prado,234,4.4,0
+H038,La Isleta,288,4.1,0
+H042,Zaragoza,394,3.1,0
+H043,Guadalupe,122,,1
+H044,Guadalupe,103,3.1,0
+H045,Guadalupe,114,4.5,1
+H046,La Isleta,392,3.4,0
+H047,Zaragoza,292,4.8,1
+H048,Guadalupe,263,4.5,0
+H049,La Isleta,176,4.9,1
+H050,guadalupe,111,4.4,1
+H051,Zaragoza,67,3.4,1
+H052,La Isleta,333,3.0,0
+H053,Centro,219,4.8,0
+H054,Centro,396,2.6,0
+H055,El Prado,65,4.9,1
+H029,Guadalupe,67,3.5,1
+H056,El Prado,350,,0
+H057,El Prado,116,,1
+H058,Zaragoza,396,3.8,0
+H059,La Isleta,111,4.2,1
+H060,Zaragoza,137,2.9,0
+H061,Guadalupe,218,3.4,0
+H062,Zaragoza,237,4.0,0
+H063,La Isleta,116,4.5,1
+H064,El Prado,306,4.0,0
+H065,El Prado,369,4.2,0
+H066,La Isleta,87,3.2,1
+H067,El Prado ,119,3.5,0
+H068,ZARAGOZA,321,4.1,0
+H069,La Isleta,80,3.4,0
+H070,El Prado,291,4.5,0
+H071,Guadalupe,311,4.6,0
+H072,Guadalupe,365,2.5,0
+H073,Zaragoza,-244,3.6,0
+H074,Zaragoza,186,3.1,0
+H075,El Prado,92,4.1,1
+H076,Guadalupe,151,4.8,1
+H077, El Prado,112,3.2,1
+H078,Zaragoza,235,3.3,0
+H079,Guadalupe,69,3.6,1
+H009,Centro,298,3.1,0
+H080,Zaragoza,317,3.8,0

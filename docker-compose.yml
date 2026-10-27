@@ -1,0 +1,8 @@
+services:
+  parcial2:
+    build: .
+    container_name: parcial2_ia
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true
